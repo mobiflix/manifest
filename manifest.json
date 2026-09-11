@@ -6,7 +6,7 @@
       "id": "4khdhub",
       "name": "4KHDHub",
       "description": "4KHDHub direct links",
-      "version": "1.0.2",
+      "version": "1.0.0",
       "author": "Nuvio Team",
       "supportedTypes": [
         "movie",
@@ -21,7 +21,6 @@
       "contentLanguage": [
         "en"
       ]
-    },
     }
   ]
 }
